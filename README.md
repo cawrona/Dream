@@ -1,13 +1,11 @@
 # Dream
  The Hearthstone of Chess
 
+"Do GM's dream of electric knights?"
 
 Foreword Written by: Ellis Yuen-Rapati
-# Dreamer Chess
+# Dreamer Chess (tentative name/theme idea)
 
-# (tentative name/theme idea)
-
-# (Do GMs Dream of Electric Knights)
 
 **Description**
 
