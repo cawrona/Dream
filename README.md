@@ -3,7 +3,7 @@
 
 "Do GM's dream of electric knights?"
 
-Foreword Written by: Ellis Yuen-Rapati
+Foreword written by: Ellis Yuen-Rapati
 # Dreamer Chess (tentative name/theme idea)
 
 
