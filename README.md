@@ -2,7 +2,7 @@
  The Hearthstone of Chess
 
 
-
+Foreword Written by: Ellis Yuen-Rapati
 # Dreamer Chess
 
 # (tentative name/theme idea)
